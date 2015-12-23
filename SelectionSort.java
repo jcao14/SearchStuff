@@ -1,9 +1,4 @@
-/*
-James Cao
-APCS1 pd 9
-HW52 -- Selection
-2015--12-22
-*/
+
 /*======================================
   class SelectionSort -- implements SelectionSort algorithm
   ======================================*/
